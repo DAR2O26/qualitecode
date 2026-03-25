@@ -177,4 +177,8 @@
 		</plugins>
 	</reporting>
 
+	<properties>
+  		<sonar.organization>dar2o26</sonar.organization>
+	</properties>
+
 </project>
